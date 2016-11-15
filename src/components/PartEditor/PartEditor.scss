@@ -1,0 +1,18 @@
+.part-editor {
+  margin-bottom: 20px;
+  label.editor-label {
+    font-size: 16px;
+  }
+  .btn:not(.dropdown-toggle) {
+    margin-left: 5px;
+  }
+  .dropdown-toggle {
+    min-width: 120px;
+  }
+  textarea {
+    resize: vertical;
+  }
+  .part-toolbar {
+    margin-bottom: 5px;
+  }
+}
